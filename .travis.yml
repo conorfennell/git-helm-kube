@@ -1,7 +1,7 @@
 sudo: required
 
 env:
-  DOCKER_IMAGE=conor/git-helm-kube
+  DOCKER_IMAGE=conorfennell/git-helm-kube
   DOCKER_TAG=2.11.0
 
 services:
